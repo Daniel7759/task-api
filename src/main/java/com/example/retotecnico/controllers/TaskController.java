@@ -3,7 +3,6 @@ package com.example.retotecnico.controllers;
 import com.example.retotecnico.models.Task;
 import com.example.retotecnico.security.JwtUtils;
 import com.example.retotecnico.services.TaskService;
-import com.example.retotecnico.utils.TaskState;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
